@@ -11,7 +11,7 @@ and the Flutter guide for
 [developing packages and plugins](https://flutter.dev/developing-packages).
 -->
 
-PointerEventSink is a Flutter widget that exposes a continuous flow of raw PointerEvents to a child via BuildContext.
+PointerEventSink is a Flutter widget that exposes a continuous flow of raw PointerEvents to a child's BuildContext.
 
 ## Installation
 
