@@ -1,7 +1,7 @@
 name: pointer_event_sink
-description: A new Flutter package project.
+description: A Flutter widget that exposes a continuous flow of raw PointerEvents to a child's BuildContext.
 version: 0.0.1
-homepage:
+homepage: https://github.com/chromascopeio/pointer_event_sink
 
 environment:
   sdk: '>=3.0.6 <4.0.0'
