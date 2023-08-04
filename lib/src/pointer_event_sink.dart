@@ -12,8 +12,11 @@ import 'package:flutter/widgets.dart'
 
 part './pointer_event_controller.dart';
 
+/// Nests a [child] within a [Listener] that receives notifications from [PointerDetails].
 class PointerEventSink extends StatefulWidget {
   const PointerEventSink(this.child, {super.key});
+
+  /// The [PointerEvent] consuming widget.
   final Widget child;
 
   @override
